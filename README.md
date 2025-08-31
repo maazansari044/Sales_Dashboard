@@ -33,5 +33,5 @@ It includes **Sales Analysis** as well as a '30-Day Sales Forecast'.
 ## 📸 Dashboard Preview
 (Add screenshots here, e.g.:)
 
-Sales Dashboard Screenshot()  
+Sales Dashboard Screenshot(https://github.com/maazansari044/Sales_Dashboard/blob/main/Dashboard.png)  
 Forecasting Screenshot()
