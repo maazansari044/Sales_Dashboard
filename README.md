@@ -34,4 +34,4 @@ It includes **Sales Analysis** as well as a '30-Day Sales Forecast'.
 (Add screenshots here, e.g.:)
 
 Sales Dashboard Screenshot(https://github.com/maazansari044/Sales_Dashboard/blob/main/Dashboard.png)  
-Forecasting Screenshot()
+Forecasting Screenshot(https://github.com/maazansari044/Sales_Dashboard/blob/main/Sales_Forcasting.png)
